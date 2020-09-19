@@ -1,0 +1,43 @@
+.head-text {
+
+    text-align: center;
+    color: #115BCB;
+    padding-top: 100px;
+}
+
+.datos {
+
+    width: 300px;
+    height: auto;
+    margin: auto;
+    margin-top: 4%;
+}
+
+.datos > button {
+
+    width: 100%;
+    margin-top: 12px;
+}
+
+.caja-mostrar {
+
+    width: 300px;
+    height: auto;
+    margin: auto;
+}
+
+.caja-mostrar > .img-Pokemon {
+
+    width: 150px;
+    height: 150px;
+    margin-left: 85px;
+    margin-top: 30px;
+}
+
+.caja-mostrar > .nombrePoke {
+
+    margin-left: 115px;
+    margin-top: -20px;
+    font-size: 20px;
+    color: darkblue;
+}
